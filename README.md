@@ -1,5 +1,12 @@
 #  Mean and variance of a discrete  distribution
 
+# Ex.No.01
+
+# date:
+
+# Name:Praisy Nishitha.J
+
+# Register no: 24900090
 
 # Aim : 
 
@@ -49,9 +56,18 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 
+  Developed by : praisy nishitha.j
+  Register No  : 24900090
+
+
+![Screenshot 2024-12-10 064222](https://github.com/user-attachments/assets/770cd72a-3236-4f53-82c4-aa91836117f4)
+
 
 
 # Output : 
+
+
+![Screenshot 2024-12-10 064235](https://github.com/user-attachments/assets/5da21458-bc26-46d2-9360-e4a93c2a7e5c)
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
